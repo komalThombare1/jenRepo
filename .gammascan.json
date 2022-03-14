@@ -5,7 +5,7 @@
     },
     "repositories": [
         {
-            "dataDir": "D:/testing/bucket",
+            "dataDir": "D:/testing/bucket/temp",
             "repository": {
                 "uid": "bad9beac9c06b58fb776f36f4fdb0ce1",
                 "projectName": "jengit",
